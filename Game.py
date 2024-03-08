@@ -1,6 +1,4 @@
-# file: CS112_A1_T2_20230116
-# Author:Habiba Ibrahim abdeldayem Ibrahim
-# ID:20230116
+
 """"
 Number scrabble is played with the list of numbers between 1 and 9. Each player takes
 turns picking a number from the list. Once a number has been picked, it cannot be picked
